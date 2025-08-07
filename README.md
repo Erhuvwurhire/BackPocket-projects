@@ -41,6 +41,45 @@ We seek to group these users into **meaningful clusters** to improve:
 - Cluster profiling (e.g., gift history vs. hobbies)
 
 ---
+Project Context:
+You’re segmenting customers on BackPocket based on purchase history, hobbies, favorite movies, previous gifts, etc., to group them into similar clusters for targeted marketing and recommendations.
+
+ Reasons for using K-Means:
+Unsupervised Learning:
+with the lack of predefined categories. K-Means helps discover natural groupings (clusters) in the data.
+
+Scalability:
+It scales well to large datasets, which is ideal for e-commerce or customer data.
+
+Interpretability:
+The cluster centroids give insights into what characterizes each segment (e.g., Movie Lovers, Hobbyists, Last-Minute Shoppers).
+
+Simplicity and Speed:
+It’s fast, relatively easy to implement, and provides baseline clustering results that can be improved later.
+
+Why Use PCA Before K-Means?
+Problem:
+High-dimensional data (e.g., if you encode hobbies, movies, previous gifts, etc.) can cause:
+
+Curse of dimensionality – distances become less meaningful
+
+Sparsity – customer vectors might be mostly zero (e.g., many hobbies not selected)
+
+Slow performance and noisy clusters
+
+ Benefits of PCA:
+Dimensionality Reduction:
+Reduces data to the most important components (e.g., top 10–20) while retaining most of the variance.
+
+Improves K-Means Performance:
+
+Reduces noise and redundancy
+
+Makes clusters more compact and separable
+
+Visualization:
+
+You can plot clusters in 2D or 3D using top principal components.
 
 ## 📊 Features Engineered
 
