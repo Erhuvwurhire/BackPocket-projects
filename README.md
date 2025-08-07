@@ -1,9 +1,9 @@
 # BackPocket-projects
-# 🎁 Personalized Gift Recommendation Engine (Project 1) 
+# Personalized Gift Recommendation Engine (Project 1) 
 
 This project implements a personalized recommendation engine that simulates the "You Might Also Like" carousel of a gifting website. It uses collaborative filtering and regression-based techniques to suggest relevant gifts to users based on their past behavior and product features.
 
-## 🚀 Project Overview
+##  Project Overview
 
 **Goal:**  
 To build and evaluate a personalized recommendation engine using collaborative filtering and regression models, enabling tailored gift suggestions.
@@ -14,11 +14,11 @@ To build and evaluate a personalized recommendation engine using collaborative f
 - Streamlit (optional for UI)
 - Matplotlib/Seaborn (for visualizations)
 
-## 📊 Problem Statement
+##  Problem Statement
 
 E-commerce gifting platforms need to enhance user engagement by offering personalized gift suggestions. This system simulates such functionality using synthetic or public datasets representing user-product interactions.
 
-## 🔍 Key Features
+##  Key Features
 
 - User-item interaction matrix creation
 - Collaborative Filtering (User- and Item-based)
@@ -26,7 +26,7 @@ E-commerce gifting platforms need to enhance user engagement by offering persona
 - Model evaluation with RMSE and Precision@K
 - Real-time recommendation demo (optional Streamlit app)
 
-## 📁 Project Structure
+##  Project Structure
 
 gift-recommender-ml/
 │
@@ -50,8 +50,6 @@ gift-recommender-ml/
 
 
 
-## 🧠 How It Works
-
 ### Collaborative Filtering
 
 - Based on the user-item interaction matrix
@@ -63,7 +61,7 @@ gift-recommender-ml/
 - Trains a regression model to predict ratings from product features
 - Can integrate into a ranking system for cold-start scenarios
 
-## ✅ Evaluation
+##  Evaluation
 
 | Model                | RMSE  | Precision@5 |
 |---------------------|-------|-------------|
