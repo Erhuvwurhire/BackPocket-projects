@@ -1,4 +1,4 @@
-# BackPocket-projects _ Market Segmentation with Clustering 
+
 # Project 1: Market Segmentation using Clustering – BackPocket
 
 **Project Type**: Unsupervised Machine Learning  
