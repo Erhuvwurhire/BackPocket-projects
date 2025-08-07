@@ -49,19 +49,12 @@ gift-recommender-ml/
 └── LICENSE
 
 
-## 📦 Dataset
-
-You can use:
-- [MovieLens 100K Dataset](https://grouplens.org/datasets/movielens/100k/)
-- Or simulate a dataset with:
-  - `user_id`, `product_id`, `rating` or `click`
-  - Product features: `category`, `price`, `popularity`
 
 ## 🧠 How It Works
 
 ### Collaborative Filtering
 
-- Based on user-item interaction matrix
+- Based on the user-item interaction matrix
 - Implemented using K-Nearest Neighbors (KNN) from Surprise library
 - Recommends items liked by similar users
 
@@ -77,7 +70,7 @@ You can use:
 | Collaborative (User) | 0.92  | 0.64        |
 | Regression           | 1.04  | 0.58        |
 
-> (Replace above table with your actual results after training)
+> (Replace the above table with your actual results after training)
 
 ## 🖥️ Optional: Streamlit App
 
