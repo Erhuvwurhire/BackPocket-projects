@@ -1,0 +1,101 @@
+user_id,recipient_type,hobbies,favourite_movie_genre,last_year_gift
+user_1,family,painting,Drama,clothing
+user_2,friend,"cooking, photography, painting",Thriller,clothing
+user_3,family,"painting, dancing",Documentary,experiences
+user_4,friend,painting,Romance,books
+user_5,friend,cooking,Fantasy,gift cards
+user_6,family,"gaming, cooking, reading",Thriller,toys
+user_7,family,gardening,Documentary,toys
+user_8,co-worker,"reading, gardening, sports",Drama,home decor
+user_9,family,dancing,Thriller,books
+user_10,friend,"photography, gaming",Action,books
+user_11,co-worker,"dancing, gardening, music",Romance,experiences
+user_12,family,"gardening, music, sports",Animation,home decor
+user_13,co-worker,reading,Drama,gadgets
+user_14,co-worker,music,Action,home decor
+user_15,co-worker,sports,Comedy,gift cards
+user_16,co-worker,"reading, gaming",Animation,jewelry
+user_17,family,"travel, reading, music",Romance,experiences
+user_18,family,"gardening, dancing",Romance,gadgets
+user_19,co-worker,"music, reading",Action,gift cards
+user_20,co-worker,gardening,Action,gift cards
+user_21,friend,"music, sports, gardening",Romance,clothing
+user_22,family,sports,Animation,experiences
+user_23,family,"gaming, dancing",Action,gift cards
+user_24,family,"gardening, sports, reading",Action,experiences
+user_25,co-worker,gaming,Documentary,toys
+user_26,family,"reading, photography, travel",Romance,clothing
+user_27,family,photography,Documentary,toys
+user_28,co-worker,"gardening, reading, gaming",Fantasy,books
+user_29,co-worker,sports,Romance,home decor
+user_30,co-worker,"gaming, dancing, photography",Documentary,books
+user_31,co-worker,gardening,Fantasy,jewelry
+user_32,co-worker,travel,Fantasy,gift cards
+user_33,friend,gaming,Romance,clothing
+user_34,family,"gardening, travel",Romance,jewelry
+user_35,friend,"painting, sports, gaming",Thriller,home decor
+user_36,co-worker,"sports, gaming",Documentary,gadgets
+user_37,co-worker,"music, cooking",Romance,gadgets
+user_38,family,"music, painting, photography",Romance,clothing
+user_39,co-worker,painting,Thriller,books
+user_40,co-worker,"photography, reading",Comedy,experiences
+user_41,friend,"photography, gaming, painting",Documentary,clothing
+user_42,friend,"dancing, sports, cooking",Action,home decor
+user_43,family,"dancing, music, gaming",Animation,home decor
+user_44,family,"gardening, cooking, music",Documentary,home decor
+user_45,co-worker,reading,Documentary,home decor
+user_46,co-worker,"cooking, gardening",Comedy,books
+user_47,family,"dancing, reading",Animation,clothing
+user_48,friend,"painting, sports, dancing",Comedy,home decor
+user_49,co-worker,sports,Animation,clothing
+user_50,friend,"gaming, dancing",Thriller,clothing
+user_51,family,"sports, travel, cooking",Sci-Fi,books
+user_52,co-worker,"dancing, sports",Fantasy,books
+user_53,friend,"painting, photography, reading",Drama,clothing
+user_54,friend,"sports, photography, reading",Sci-Fi,gadgets
+user_55,family,"dancing, gaming, gardening",Thriller,gadgets
+user_56,family,"gardening, music",Sci-Fi,home decor
+user_57,co-worker,reading,Animation,gift cards
+user_58,co-worker,gaming,Romance,books
+user_59,family,photography,Animation,home decor
+user_60,family,"gardening, photography, sports",Action,books
+user_61,co-worker,"reading, sports",Action,jewelry
+user_62,family,"cooking, dancing, sports",Fantasy,gift cards
+user_63,family,"gardening, gaming",Documentary,home decor
+user_64,family,sports,Documentary,toys
+user_65,family,"music, gaming, photography",Drama,toys
+user_66,family,"sports, photography, cooking",Sci-Fi,gift cards
+user_67,family,"sports, music",Sci-Fi,toys
+user_68,friend,"reading, music, photography",Comedy,clothing
+user_69,friend,"cooking, reading",Romance,experiences
+user_70,co-worker,reading,Sci-Fi,books
+user_71,friend,travel,Drama,jewelry
+user_72,friend,"gardening, gaming, dancing",Documentary,toys
+user_73,family,"painting, cooking",Action,home decor
+user_74,friend,"travel, painting",Romance,clothing
+user_75,co-worker,"music, gaming, cooking",Documentary,toys
+user_76,co-worker,travel,Horror,books
+user_77,family,"dancing, photography, reading",Romance,toys
+user_78,friend,travel,Animation,toys
+user_79,co-worker,"sports, cooking, dancing",Comedy,clothing
+user_80,co-worker,"travel, gaming",Action,books
+user_81,friend,"sports, travel",Horror,experiences
+user_82,friend,travel,Action,jewelry
+user_83,co-worker,"travel, cooking, gaming",Horror,home decor
+user_84,co-worker,"music, sports",Thriller,gadgets
+user_85,friend,"gardening, painting",Fantasy,gift cards
+user_86,co-worker,gardening,Action,gift cards
+user_87,family,"gaming, dancing",Documentary,toys
+user_88,co-worker,"gaming, sports, reading",Romance,gift cards
+user_89,family,"gardening, travel",Comedy,home decor
+user_90,co-worker,cooking,Horror,jewelry
+user_91,co-worker,"gardening, gaming, photography",Action,books
+user_92,friend,painting,Thriller,experiences
+user_93,co-worker,"gardening, photography",Animation,home decor
+user_94,friend,gaming,Animation,gadgets
+user_95,friend,sports,Comedy,toys
+user_96,friend,travel,Sci-Fi,experiences
+user_97,friend,"gardening, travel",Fantasy,gift cards
+user_98,friend,cooking,Sci-Fi,gift cards
+user_99,family,"reading, gardening",Comedy,clothing
+user_100,family,"cooking, sports, music",Romance,gadgets
