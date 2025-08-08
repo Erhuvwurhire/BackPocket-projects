@@ -1,1 +1,66 @@
+# 🎁 Project 2: Seasonal Traffic Forecasting for BackPocket Gifting Site
+
+## 🧠 Problem Statement
+
+Gift-buying behavior spikes during special seasons like Christmas, Mother’s Day, and New Year. BackPocket wants to track and predict traffic and gift transaction volume during these key periods to better manage inventory and prepare marketing campaigns.
+
+## 🎯 Objective
+
+Simulate realistic website traffic data across different gifting holidays and build regression models to forecast daily transaction volume based on session behavior.
+
+---
+
+## 📅 Seasonal Focus
+
+- **Christmas** (Dec 15–31)
+- **Mother’s Day** (May 1–14)
+- **Father’s Day** (June 1–18)
+- **New Year** (Dec 26 – Jan 7)
+
+---
+
+## 🔍 Key Questions
+
+- How does user behavior differ across these seasons?
+- Which features (session duration, time of day, device) are most predictive of transaction volume?
+- Can we accurately forecast how many gifts will be bought on Dec 24 or the Saturday before Mother's Day?
+
+---
+
+## 🧪 Features Simulated
+
+- `session_id`: Unique identifier
+- `date`: Date of session
+- `season`: Holiday period (e.g., "Christmas", "New Year")
+- `day_of_week`: (Mon-Sun)
+- `time_of_day`: Morning, Afternoon, Evening, Night
+- `session_duration`: Minutes spent on site
+- `page_views`: Total pages visited
+- `device`: Mobile or Desktop
+- `bounce`: Whether session was < 1 minute
+- `transactions`: Number of gifts purchased (target)
+
+---
+
+## 📊 Output
+
+- Forecasting model (Linear Regression, Random Forest)
+- Visual insights on seasonal traffic trends
+- Business-ready charts (e.g., "Average Transactions by Day of Week during Christmas")
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- Pandas / NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Google Colab
+
+---
+
+
+
+
 
