@@ -139,6 +139,17 @@ These customer segments help the BackPocket platform:
 - Track segment engagement over time
 
 ---
+## WorkFlow
+
+Original Data (High-Dimensional)
+        ↓
+Apply PCA (e.g., reduce to 10 dimensions)
+        ↓
+Apply K-Means (e.g., cluster into 5 segments)
+        ↓
+Label each customer with a segment
+        ↓
+Use segments for targeted marketing & recommendations
 
 ## 📄 License
 
